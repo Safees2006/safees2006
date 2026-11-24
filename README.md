@@ -1,11 +1,16 @@
 <!-- ================= HERO BANNER ================= -->
-
 <div align="center">
-<div align="center">
-  <img src="assets/dark/hero-static.svg"
-       width="900"
-       alt="Muhammed Safees">
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/dark/hero-mobile-static.svg">
+    <source media="(prefers-color-scheme: light) and (prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/light/hero-mobile-static.svg">
+    <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/dark/hero-static.svg">
+    <source media="(prefers-color-scheme: light) and (prefers-reduced-motion: reduce)" srcset="assets/light/hero-static.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/dark/hero-mobile.svg">
+    <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/light/hero-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light/hero.svg">
+    <img alt="Muhammed Safees — Software Engineer Trainee" src="assets/light/hero-static.svg" width="900">
+  </picture>
 </div>
 
 <!-- ================= TYPING ANIMATION ================= -->
