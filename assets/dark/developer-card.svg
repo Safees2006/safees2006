@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="310" viewBox="0 0 700 310">
+  <rect width="700" height="310" rx="20" fill="#080f1e"/>
+  <rect x="2" y="2" width="696" height="306" rx="18" stroke="#12e1fc" fill="none"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="25" y="38" fill="#12e1fc" font-size="15" letter-spacing="3">DEVELOPER IDENTITY</text>
+
+    <circle cx="608" cy="33" r="5" fill="#34d399">
+      <animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="675" y="38" text-anchor="end" font-size="12" fill="#34d399">ACTIVE</text>
+    <path d="M25 55H675" stroke="#164e63"/>
+
+    <rect x="30" y="80" width="160" height="185" rx="15"
+          fill="#102439" stroke="#12e1fc"/>
+
+    <circle cx="110" cy="155" r="48" fill="#0e3149" stroke="#12e1fc"/>
+    <circle cx="110" cy="155" r="55" fill="none" stroke="#12e1fc" stroke-dasharray="6 8">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 110 155" to="360 110 155" dur="10s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="110" y="167" text-anchor="middle" fill="#12e1fc"
+          font-size="33" font-weight="bold">MS</text>
+
+    <text x="110" y="241" font-size="13" fill="#94a3b8" text-anchor="middle">@Safees2006</text>
+
+    <g font-size="12" fill="#94a3b8">
+      <text x="220" y="85">FULL NAME</text>
+      <text x="220" y="140">PROFESSIONAL ROLE</text>
+      <text x="220" y="195">ORGANIZATION</text>
+      <text x="220" y="250">CAREER FOCUS</text>
+    </g>
+
+    <g fill="#f1f5f9" font-weight="600">
+      <text x="220" y="110" font-size="26">Muhammed Safees</text>
+      <text x="220" y="165" font-size="21">Software Engineer Trainee</text>
+      <text x="220" y="220" font-size="20">JobAlign Software Solutions</text>
+      <text x="220" y="275" font-size="18" fill="#12e1fc">Software Engineering &amp; AI</text>
+    </g>
+  </g>
+</svg>
