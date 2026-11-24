@@ -71,7 +71,7 @@
 ---
 
 <div align="center">
-  <img src="assets/file_00000000e4cc824380b5a80d6b17afad.png"
+  <img src="assets/portrait.png"
        width="180"
        alt="Muhammed Safees Profile Photo"/>
 </div>
