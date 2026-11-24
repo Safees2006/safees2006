@@ -381,8 +381,18 @@ Suggested learning and professional development roadmap.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Safees2006&theme=tokyonight&no-frame=true&column=6">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Safees2006&theme=flat&no-frame=true&column=6" alt="GitHub Trophies"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-trophy-liard-delta.vercel.app/?username=Safees2006&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-trophy-liard-delta.vercel.app/?username=Safees2006&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10">
+
+  <img
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Safees2006&theme=flat&no-frame=true&column=6"
+    width="100%"
+    alt="GitHub Trophies">
 </picture>
 
 </div>
