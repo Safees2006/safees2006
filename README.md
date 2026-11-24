@@ -70,6 +70,12 @@
 
 ---
 
+<div align="center">
+  <img src="assets/portrait.png"
+       width="180"
+       alt="Muhammed Safees Profile Photo"/>
+</div>
+
 <!-- ================= DEVELOPER CARD ================= -->
 
 ## 🪪 Developer Identity
