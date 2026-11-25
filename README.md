@@ -55,14 +55,14 @@
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding animation"/>
 
 - 👨‍💻 **Software Engineer Trainee**
-- 💼 Currently working at **JobAlign Software Solutions**
-- 🎓 HND in Software Engineering
+- 💼 Currently working at @ **JobAlign Software Solutions (Pvt) Ltd**
+- 🎓 HND in Software Engineering — _pearson college london_
 - 🌍 Based in Sri Lanka
 - 💻 Interested in Full Stack Software Development
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🚀 Passionate about building practical software solutions
 - 🌱 Continuously learning modern technologies
-- 🎯 Career focus: Software Engineering & AI Development
+- 🎯 Career focus: Software Engineering & Artificial intelligence (AI) & Machine learning (ML)
 - 📧 Reach me at **muhammedsafees54@gmail.com**
 
 <br clear="right"/>
@@ -179,7 +179,7 @@
 
 ### Software Engineer Trainee
 
-**JobAlign Software Solutions**
+**JobAlign Software Solutions (Pvt) Ltd**
 
 `Current Role`
 
